@@ -1,4 +1,4 @@
-# expensep_project
+# Weekly Expense Tracker App
 
 A new Flutter project.
 
